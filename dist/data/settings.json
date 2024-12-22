@@ -5,13 +5,13 @@
 
     "preloader": {
         "enabled": true,
-        "title": "React <b>Portfolio</b>",
-        "subtitle": "by Ryan Balieiro"
+        "title": "Erbai<b>Portfolio</b>",
+        "subtitle": "Youness Erbai"
     },
 
     "profile": {
         "name": "Mark Choi",
-        "stylizedName": "<strong>Mark **Choi**</strong>",
+        "stylizedName": "<strong>Youness **Erbai**</strong>",
         "logoUrl": "images/svg/logo.svg",
         "profilePictureUrl": "images/pictures/avatar.jpg",
 

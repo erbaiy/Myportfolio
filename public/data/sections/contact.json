@@ -55,9 +55,9 @@
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+212-709-180009",
                     "links": [
-                        {"href": "tel:11234567890"}
+                        {"href": "tel:+212709180009"}
                     ],
                     "icon": {
                         "img": null,
@@ -73,9 +73,9 @@
                 },
 
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "younesserbai@gmail.com",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "mailto:younesserbai@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -84,14 +84,14 @@
                     },
                     "locales": {
                         "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
+                        "fr": {"title": "E-mail"}
                     }
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "erbaiy",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                        {"href": "https://linkedin.com/in/youness-erbai-6ba7bb2a1"}
                     ],
                     "icon": {
                         "img": null,
@@ -104,47 +104,17 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "erbaiy",
                     "links": [
-                        {"href": "https://facebook.com"}
+                        {"href": "https://github.com/erbaiy"}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-facebook",
+                        "fa": "fa-brands fa-github",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "Facebook"}
-                    }
-                },
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://instagram.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-instagram",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Instagram"}
-                    }
-                },
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://tiktok.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-tiktok",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "TikTok"}
+                        "en": {"title": "GitHub"}
                     }
                 }
             ]
